@@ -144,7 +144,7 @@ Here are five German traffic signs that I found on the web:
 1. First image, 20 mph sign, has some brown dirt on the image, could have been harder to classify because we are using rgb images.
 2. Second image, stop sign, is slightly tilted left.
 3. Third image, stay straight or right, has very thin white boundary and looks merging with blue sky in the background.
-4. Fourth image, road work, looks similar to Wild animals crossing traffic sign.
+4. Fourth image, road work, also tilted left, looks similar to Wild animals crossing traffic sign.
 5. I actually liked used test image for "Speed limit 70km/h" because it also looks like an image for "Speed limit 120km/h" (even for a naked eye) because of scaled down image and 7 looks like digits 12. 
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
