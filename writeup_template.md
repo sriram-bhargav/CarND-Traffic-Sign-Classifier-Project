@@ -206,7 +206,7 @@ For the second image, the model is 100% sure that this is a Road work sign (prob
 | 0	      			| Speed limit (60km/h)					 				|
 | 0				    | Speed limit (70km/h)     							|
 
-For the second image, the model is 0% sure that this is a Speed limit (70km/h) sign (probability of 1), and the image does not contain a Speed limit (70km/h) sign. The top five soft max probabilities were
+For the second image, the model is 0% sure that this is a Speed limit (70km/h) sign (probability of 0), and the image does not contain a Speed limit (70km/h) sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
