@@ -17,11 +17,11 @@ The goals / steps of this project are the following:
 [image1]: examples/visualization.jpg "Visualization"
 [image2]: examples/original.jpg "Pre-Normalization"
 [image3]: examples/normalized.jpg "Post-Normalization"
-[image4]: test/1.jpeg "Traffic Sign 1"
-[image5]: test/2.jpeg "Traffic Sign 2"
-[image6]: test/3.jpeg "Traffic Sign 3"
-[image7]: test/4.jpeg "Traffic Sign 4"
-[image8]: test/5.jpeg "Traffic Sign 5"
+[image4]: test/n1.png "Traffic Sign 1"
+[image5]: test/n2.png "Traffic Sign 2"
+[image6]: test/n3.png "Traffic Sign 3"
+[image7]: test/n4.png "Traffic Sign 4"
+[image8]: test/n5.png "Traffic Sign 5"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
